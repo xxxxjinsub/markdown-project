@@ -1,3 +1,1 @@
-# mark-
-
-####마크 첫번째 소개파일입니다.
+<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
