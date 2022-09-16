@@ -4,7 +4,7 @@
 # what im living for? 
 * student 
 *** 
-#major and learning
+# major and learning
 * smart factory 
 * ai 
 * digital twin
