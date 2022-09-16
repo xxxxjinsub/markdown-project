@@ -2,5 +2,7 @@
 
 
 # what im living for? 
+> student
+> stocker
 *** 
                                             
