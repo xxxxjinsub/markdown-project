@@ -8,7 +8,7 @@
 * student 
 
 
-
+***
 # major and learning
 * smart factory ⚙️
 * ai ⌨️
