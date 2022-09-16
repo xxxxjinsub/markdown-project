@@ -2,7 +2,6 @@
 
 
 # what im living for? 
-* student
-* korea stocker
+* student 
 *** 
-                                            
+# what im learning now?
