@@ -5,7 +5,7 @@
 * student 
 *** 
 # major and learning
-* smart factory 
-* ai 
-* digital twin
-* plc 
+* smart factory ⚙️
+* ai ⌨️
+* digital twin 🔧
+* plc 🖥️
