@@ -3,7 +3,9 @@
 
 # what im living for? 
 * student 
-*** 
+
+
+
 # major and learning
 * smart factory ⚙️
 * ai ⌨️
