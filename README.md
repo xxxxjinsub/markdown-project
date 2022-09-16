@@ -13,4 +13,4 @@
 * plc 🖥️
 *** 
 my favoriate site 
-[naver](www.naver.com)
+[naver](https://www.naver.com/)
