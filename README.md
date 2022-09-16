@@ -2,7 +2,7 @@
 
 
 # what im living for? 
-> student
+* student
 
 *** 
                                             
