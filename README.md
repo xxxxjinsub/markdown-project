@@ -4,4 +4,8 @@
 # what im living for? 
 * student 
 *** 
-# what im learning now?
+#major and learning
+* smart factory 
+* ai 
+* digital twin
+* plc 
