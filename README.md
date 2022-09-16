@@ -12,3 +12,5 @@
 * digital twin 🔧
 * plc 🖥️
 *** 
+my favoriate site 
+[naver](www.naver.com)
