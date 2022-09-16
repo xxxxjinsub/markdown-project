@@ -2,9 +2,9 @@
 
 
 # who am I and what im living for? 
-* i m currently studying at changwon tech college.
-* living in changwon.
-* age : 25
+* 🐶i m currently studying at changwon tech college.🐶
+* 🐼living in changwon.🐼
+* 🐯age : 25🐯
 * student 
 
 
