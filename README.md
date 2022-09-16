@@ -28,4 +28,4 @@
 3.[youtube](https://www.youtube.com/)
 ***
 ## coding experience
-![logo](https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA4MjVfMjQ0%2FMDAxNjYxMzY5OTU2MTkx.-w63I9IH-4VwS6IhyK5OJbh86tzcdMONnBE5-5ECJmwg.pRWPQm8zlCK2ww8UrdoE8mOZJ_sYBPzMGJyhAGCQgZEg.PNG.leporem87%2Fimage.png&type=sc960_832
+![logo]https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA4MjVfMjQ0%2FMDAxNjYxMzY5OTU2MTkx.-w63I9IH-4VwS6IhyK5OJbh86tzcdMONnBE5-5ECJmwg.pRWPQm8zlCK2ww8UrdoE8mOZJ_sYBPzMGJyhAGCQgZEg.PNG.leporem87%2Fimage.png&type=sc960_832)
