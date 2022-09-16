@@ -13,4 +13,7 @@
 * plc 🖥️
 *** 
 my favoriate site 
-[naver](https://www.naver.com/)
+1.[naver](https://www.naver.com/)
+
+
+2.[google](https://www.google.com/)
